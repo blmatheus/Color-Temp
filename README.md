@@ -1,4 +1,4 @@
-ColorTemp.js
+<b>ColorTemp.js</b>
 
 A simple plugin that sets the color of a property based on a number value.
 
